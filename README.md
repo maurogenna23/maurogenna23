@@ -37,15 +37,6 @@ I build production AI systems end-to-end — from conversational voice pipelines
 
 ---
 
-### 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=maurogenna23&show_icons=true&theme=default&hide_border=true" width="49%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurogenna23&layout=compact&hide_border=true" width="45%" />
-
-<br clear="both" />
-
----
-
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurogenna)
