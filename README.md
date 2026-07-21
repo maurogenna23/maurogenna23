@@ -1,70 +1,54 @@
+<h1 align="left">Hi, I'm Mauro Genna 👋</h1>
 
-<h2 align="left">Hola👋! Mi nombre es Mauro Genna</h2>
+### AI Integration Engineer · Full-Stack SaaS Development
 
-###
+I build production AI systems end-to-end — from conversational voice pipelines to backend architecture and billing infrastructure. Founder of **[Arnie](https://www.arniechat.com)**, an AI agent platform (WhatsApp, voice, web chat) for SMBs across Latin America.
 
-<h2 align="left">Soy Software Engineer. 👨‍💻</h2>
+- 🔭 Currently building **Arnie** — AI agents for LATAM SMBs
+- 💼 Contract engineer at **Highpoint Growth Networks** (US) and **UseTeam** (Spain)
+- 🎙️ Shipped a voice-AI pipeline (Retell AI) automating incident management for 50+ residential condominiums in Spain
+- 🧠 Currently deepening AI Engineering (LLMs, RAG, agentic systems)
+- 📍 Based in Mendoza, Argentina — working remotely with teams in the US and EU
 
-###
+---
 
-<h3 align="left">Cual es mi experiencia? 📚👨‍🎓</h3>
+### 🛠️ Stack
 
-###
+**AI & Automation**
 
-<p align="left">Tengo Experiencia como Software Engineer utilizando Next, MUI, Typescript, Sql Workbench y Nest
-</p>
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Retell AI](https://img.shields.io/badge/-Retell_AI-0B0B0B?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square)
 
-###
+**Core**
 
-<h2 align="left">🖥Mis siguientes tecnologías son:</h2>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-###
+**Infra & Payments**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurogenna23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurogenna23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=maurogenna23&show_icons=true&theme=default&hide_border=true" width="49%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurogenna23&layout=compact&hide_border=true" width="45%" />
 
-<h2 align="left">Me pueden contactar en los siguientes enlaces  ⬇</h2>
+<br clear="both" />
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mauro-genna-777a84237/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="gennamauro18@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 📫 Let's connect
 
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurogenna)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1F5FBF?style=flat-square&logo=googlechrome&logoColor=white)](https://maurogenna.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gennamauro18@gmail.com)
+[![Arnie](https://img.shields.io/badge/-Arnie-000000?style=flat-square)](https://www.arniechat.com)
