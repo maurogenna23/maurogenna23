@@ -1,13 +1,14 @@
 <h1 align="left">Hi, I'm Mauro Genna 👋</h1>
 
-### AI Integration Engineer · Full-Stack SaaS Development
+### AI Engineer & Full Stack Developer | Agentic Systems & LLM Integration
 
 I build production AI systems end-to-end — from conversational voice pipelines to backend architecture and billing infrastructure. Founder of **[Arnie](https://www.arniechat.com)**, an AI agent platform (WhatsApp, voice, web chat) for SMBs across Latin America.
 
 - 🔭 Currently building **Arnie** — AI agents for LATAM SMBs
-- 💼 Contract engineer at **Highpoint Growth Networks** (US) and **UseTeam** (Spain)
+- 💼 Contract engineer at **UseTeam** (Spain) | Previously **Highpoint Growth Networks** (US)
 - 🎙️ Shipped a voice-AI pipeline (Retell AI) automating incident management for 50+ residential condominiums in Spain
 - 🧠 Currently deepening AI Engineering (LLMs, RAG, agentic systems)
+- 🧪 Recently shipped two portfolio projects exploring agentic systems: **[site-intel](https://github.com/maurogenna23/site-intel)** (chained LLM calls + guardrails) and **[llm-tool-calling-lab](https://github.com/maurogenna23/llm-tool-calling-lab)** (tool calling with real writes, cost telemetry, multi-provider)
 - 📍 Based in Mendoza, Argentina — working remotely with teams in the US and EU
 
 ---
@@ -19,9 +20,12 @@ I build production AI systems end-to-end — from conversational voice pipelines
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Retell AI](https://img.shields.io/badge/-Retell_AI-0B0B0B?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-1A1A2E?style=flat-square)
+![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 
 **Core**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -33,7 +37,7 @@ I build production AI systems end-to-end — from conversational voice pipelines
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Creem](https://img.shields.io/badge/-Creem-000000?style=flat-square)
 
 ---
 
