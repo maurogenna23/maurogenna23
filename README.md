@@ -1,14 +1,14 @@
 <h1 align="left">Hi, I'm Mauro Genna 👋</h1>
 
-### AI Engineer & Full Stack Developer | Agentic Systems & LLM Integration
+### Product Engineer | Full Stack & AI-Powered Products
 
-I build production AI systems end-to-end — from conversational voice pipelines to backend architecture and billing infrastructure. Founder of **[Arnie](https://www.arniechat.com)**, an AI agent platform (WhatsApp, voice, web chat) for SMBs across Latin America.
+I build AI-powered SaaS products end-to-end — from the first customer conversation to production. Founder of **[Arnie](https://www.arniechat.com)**, an AI agent platform (WhatsApp, voice, web chat) for SMBs across Latin America, where I own everything from architecture to direct sales.
 
-- 🔭 Currently building **Arnie** — AI agents for LATAM SMBs
-- 💼 Contract engineer at **UseTeam** (Spain) | Previously **Highpoint Growth Networks** (US)
-- 🎙️ Shipped a voice-AI pipeline (Retell AI) automating incident management for 50+ residential condominiums in Spain
-- 🧠 Currently deepening AI Engineering (LLMs, RAG, agentic systems)
-- 🧪 Recently shipped two portfolio projects exploring agentic systems: **[site-intel](https://github.com/maurogenna23/site-intel)** (chained LLM calls + guardrails) and **[llm-tool-calling-lab](https://github.com/maurogenna23/llm-tool-calling-lab)** (tool calling with real writes, cost telemetry, multi-provider)
+- 🔭 Currently building **Arnie** — AI agents for LATAM SMBs, from architecture to go-to-market
+- 💼 Full Stack Engineer at **UseTeam** (Spain, remote) since 2025 | Built AI systems at **Highpoint Growth Networks** (US, remote), 2024–2026, as a concurrent independent contract
+- 🎙️ Shipped a voice-AI pipeline (Retell AI) automating incident reporting for 50+ residential communities in Spain
+- 🧪 Public proof of the code behind Arnie and my AI engineering work: **[rag-postgres-retrieval](https://github.com/maurogenna23/rag-postgres-retrieval)** (Arnie's retrieval engine, sanitized), **[llm-tool-calling-lab](https://github.com/maurogenna23/llm-tool-calling-lab)** (tool calling with real writes, cost telemetry, multi-provider), **[site-intel](https://github.com/maurogenna23/site-intel)** (chained LLM calls + guardrails)
+- 🧠 Currently deepening AI engineering fundamentals — RAG, fine-tuning, multi-agent systems
 - 📍 Based in Mendoza, Argentina — working remotely with teams in the US and EU
 
 ---
@@ -35,8 +35,8 @@ I build production AI systems end-to-end — from conversational voice pipelines
 
 **Infra & Payments**
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Creem](https://img.shields.io/badge/-Creem-000000?style=flat-square)
 
 ---
